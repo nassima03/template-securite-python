@@ -1,0 +1,26 @@
+2026-04-05 16:10:35,408 - TP1 - INFO - Starting TP1
+2026-04-05 16:12:13,062 - TP1 - WARNING - SVG to PNG conversion failed: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2026-04-05 16:14:28,771 - TP1 - INFO - Starting TP1
+2026-04-05 16:14:51,946 - TP1 - WARNING - SVG to PNG conversion failed: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2026-04-05 16:14:51,958 - TP1 - INFO - Report saved: report.pdf
+2026-04-05 16:17:14,098 - TP1 - INFO - Starting TP1
+2026-04-05 16:17:24,179 - TP1 - WARNING - SVG to PNG conversion failed: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2026-04-05 16:17:24,186 - TP1 - INFO - Report saved: report.pdf
+2026-04-05 16:20:43,660 - TP1 - INFO - Starting TP1
+2026-04-05 16:22:01,596 - matplotlib.font_manager - INFO - generated new fontManager
+2026-04-05 16:22:03,438 - TP1 - INFO - Report saved: report.pdf
