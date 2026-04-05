@@ -24,3 +24,15 @@ cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.fin
 2026-04-05 16:20:43,660 - TP1 - INFO - Starting TP1
 2026-04-05 16:22:01,596 - matplotlib.font_manager - INFO - generated new fontManager
 2026-04-05 16:22:03,438 - TP1 - INFO - Report saved: report.pdf
+2026-04-05 16:58:08,521 - TP2 - INFO - Starting TP2 - Shellcode analysis
+2026-04-05 16:58:08,718 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 16:58:08,722 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 16:58:08,722 - TP2 - INFO - TP2 done.
+2026-04-05 16:58:40,989 - TP2 - INFO - Starting TP2 - Shellcode analysis
+2026-04-05 16:58:41,173 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 16:58:41,178 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 16:58:41,178 - TP2 - INFO - TP2 done.
+2026-04-05 17:01:28,824 - TP2 - INFO - Starting TP2 - Shellcode analysis
+2026-04-05 17:01:28,989 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 17:01:28,993 - TP2 - WARNING - pylibemu not available — skipping emulation
+2026-04-05 17:01:28,994 - TP2 - INFO - TP2 done.
